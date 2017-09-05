@@ -1,6 +1,7 @@
 # UBC 
-Ubiquitous Business Chain 
-普惠商业链，简称：商链
+Ubiquitous Business Chain   
+普惠商业价值链，简称：商链   
+
 # 使命 
 致力于构建更加友善和强大的商业应用区块链基础架构。  
 
